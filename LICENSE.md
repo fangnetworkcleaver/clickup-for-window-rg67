@@ -1,4 +1,4 @@
-# 
+# professional Plugin for ClickUp for Windows - tags and priority-levels offers the most advanced ClickUp for Windows plugin, with tags and priority-levels. Ideal for Windows
 
 
 
